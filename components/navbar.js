@@ -9,8 +9,6 @@ import {
 import ThemeToggleButton from './theme-toggle-button'
 
 const Navbar = props => {
-  const { path } = props
-
   return (
     <Box
       position="fixed"
