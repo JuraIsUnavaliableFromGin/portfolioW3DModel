@@ -180,7 +180,7 @@ const Home = () => (
           Credit
         </Heading>
         <Paragraph>
-          This site is based on the <Link href="https://www.craftz.dog/" target="_blank">@craftzdog</Link>'s website.
+          This site is based on the <Link href="https://www.craftz.dog/" target="_blank">@craftzdog</Link> website.
         </Paragraph>
       </Section>
     </Container>

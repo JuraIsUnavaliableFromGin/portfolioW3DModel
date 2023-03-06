@@ -38,7 +38,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-            Adrian's Portfolio
+            Adrian Portfolio
           </Text>
         </LogoBox>
       </a>
