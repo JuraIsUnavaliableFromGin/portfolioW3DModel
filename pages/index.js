@@ -151,7 +151,7 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/ginwithlimeineggyork" target="_blank">
+            <Link href="https://github.com/JuraIsUnavaliableFromGin" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="red"
@@ -168,7 +168,7 @@ const Home = () => (
                 colorScheme="red"
                 leftIcon={<IoLogoGoogle />}
               >
-                gmail_adrian_1145d98
+                gmail_ccso_rj_291
               </Button>
             </Link>
           </ListItem>
