@@ -151,7 +151,7 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/JuraIsUnavaliableFromGin" target="_blank">
+            <Link href="https://github.com/ccsof18lb" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="red"
